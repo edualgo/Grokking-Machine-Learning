@@ -6,9 +6,6 @@
 ## Objective
 This repo aims to contain different machine learning use cases along with the descriptions to the model architectures.
 
-## Documentation
-The documentation of the entire repo can be found at - <a href="https://abhijit2505.github.io/Grokking-Machine-Learning/">documentation</a>
-
 ## License
 
 This repository is under **MIT License** copyright @<a href = "https://github.com/Abhijit2505">Abhijit Tripathy</a>
