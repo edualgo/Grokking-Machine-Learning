@@ -7,9 +7,7 @@
 This repo aims to contain different machine learning use cases along with the descriptions to the model architectures.
 
 ## Documentation
-[![Documentation Status](https://readthedocs.org/projects/grokking-machine-learning/badge/?version=latest)](https://grokking-machine-learning.readthedocs.io/en/latest/?badge=latest)
-
-The documentation of the entire repo can be found at - <a href="https://grokking-machine-learning.readthedocs.io/en/latest/genindex.html">documentation</a>
+The documentation of the entire repo can be found at - <a href="https://abhijit2505.github.io/Grokking-Machine-Learning/">documentation</a>
 
 ## License
 
