@@ -1,0 +1,4 @@
+These are the requirements for the project, be sure to install these in your system.
+- Python Version >= 3.7
+- Scikitlearn
+- Tensorflow2
