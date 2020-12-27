@@ -1,12 +1,13 @@
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.tree import DecisionTreeRegressor
+from sklearn.linear_model import Lasso
 from sklearn import metrics
-import seaborn as sns
+# import seaborn as sns
 import pickle
 
 data = pd.read_csv("car_price_assignment.csv")
@@ -49,3 +50,7 @@ pickle.dump(lm,open('linear_model.pkl','wb'))
 regressor = DecisionTreeRegressor(random_state = 2)
 regressor.fit(X_train, y_train)
 pickle.dump(lm,open('decision_tree_model.pkl','wb'))
+
+lasso = Lasso(alpha=100.0,max_iter=100000)
+lasso.fit(X_train,y_train)
+pickle.dump(lasso,open("lasso_regression_model.pkl","wb"))
