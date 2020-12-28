@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
@@ -46,6 +46,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/nitya123-github"><img src="https://avatars0.githubusercontent.com/u/53599318?v=4" width="100px;" alt=""/><br /><sub><b>Nitya</b></sub></a><br /><a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/commits?author=nitya123-github" title="Code">💻</a></td>
+    <td align="center"><a href="https://abhijit2505.github.io/portfolio-site/"><img src="https://avatars3.githubusercontent.com/u/52751963?v=4" width="100px;" alt=""/><br /><sub><b>Abhijit Tripathy</b></sub></a><br /><a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/commits?author=Abhijit2505" title="Code">💻</a></td>
   </tr>
 </table>
 
