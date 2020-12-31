@@ -1,12 +1,3 @@
 # CAR MILEGE PREDICTION
-
-Predicting the milege of car using Linear Regression
-
-<h2>Dataset Description</h2>
-
-<h4>After performing Data cleaning</h4>
-
-<p>No of instances = 398</p>
-
-No of attributes = 27
-
+<h3>Summary</h3>
+A Linear Regression model to predict car fuel economy (in mpg) given various specifications: {cylinders, displacement, horsepower, weight, acceleration, year, origin}. Currently, standard deviation of prediction (regression) error is around 3.7 mpg.
