@@ -6,5 +6,7 @@ Predicting the milege of car using Linear Regression
 
 <h4>After performing Data cleaning</h4>
 
-No of instances = 398
+<p>No of instances = 398</p>
+<br>
 No of attributes = 27
+
