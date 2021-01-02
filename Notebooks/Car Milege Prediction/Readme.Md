@@ -3,7 +3,8 @@
 A Linear Regression model to predict car fuel economy (in mpg) given various specifications: {cylinders, displacement, horsepower, weight, acceleration, year, origin}. Currently, Root Mean Square error is around 3.7 mpg.
 
 Dataset Descriptions
- Variables that are abliviable in dataset are 
+
+Variables that are available  in  the dataset are 
 1. mpg:           continuous
 2. cylinders:     multi-valued discrete
 3. displacement:  continuous
@@ -13,4 +14,4 @@ Dataset Descriptions
 7. model year:    multi-valued discrete
 8. origin:        multi-valued discrete
 9. car name:      string (unique for each instance)
-    
+   
