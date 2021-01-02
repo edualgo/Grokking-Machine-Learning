@@ -19,6 +19,12 @@ Problem Statement
 
 In this model you will investigate the impact of a number of automobile
 engine factors on the vehicle's mpg. The dataset auto-mpg.data contains infor-
-mation for 398 dierent automobile models. Information regarding the number
+mation for 398 different automobile models. Information regarding the number
 of cylinders, displacement, horsepower, weight, acceleration, model year, origin,
 and car name as well as mpg are contained in the file.
+
+Data Cleaning
+1. Replace the null value of horsepower to mean value of horsepower.
+2. We have to create dummy variable for variable car name.if we do it through pandas
+   we create 9 column to 312 column. We are performing hot encoding for top 10 frequent 
+   label.
