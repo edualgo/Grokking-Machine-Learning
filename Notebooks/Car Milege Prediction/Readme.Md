@@ -30,7 +30,7 @@ Data Cleaning
 2. We have to create dummy variable for variable car name.if we do it through pandas
    we create 9 column to 312 column. We are  only performing hot encoding for top 10 frequent 
    label.
-
+ 
 MODELLING AND EVALUATION 
 
 ML Algorithm Used :- Multiple linear regression is  the relationship between two or more features and response by fitting a linear equation to observed data.
