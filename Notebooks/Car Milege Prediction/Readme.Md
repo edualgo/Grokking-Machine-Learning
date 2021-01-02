@@ -34,5 +34,6 @@ Data Cleaning
 MODELLING AND EVALUATION 
 
 ML Algorithm Used :- Multiple linear regression is  the relationship between two or more features and response by fitting a linear equation to observed data.
+
 Metrics :- Since the target (mpg) variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) used.
            We tried  to reduce the rmse by selecting good features, so we can get better accuracy.
