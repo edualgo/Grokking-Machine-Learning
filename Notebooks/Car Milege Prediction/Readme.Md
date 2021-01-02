@@ -3,6 +3,7 @@
 A Linear Regression model to predict car fuel economy (in mpg) given various specifications: {cylinders, displacement, horsepower, weight, acceleration, year, origin}. Currently, Root Mean Square error is around 3.7 mpg.
 
 Dataset Descriptions
+https://docs.google.com/spreadsheets/d/1viqrctQHNdJQigAwRfJxnN9h7jv0D48xKzITjA7138U/edit#gid=85281029
 
 Variables that are available  in  the dataset are 
 1. mpg:           continuous
@@ -26,5 +27,5 @@ and car name as well as mpg are contained in the file.
 Data Cleaning
 1. Replace the null value of horsepower to mean value of horsepower.
 2. We have to create dummy variable for variable car name.if we do it through pandas
-   we create 9 column to 312 column. We are performing hot encoding for top 10 frequent 
+   we create 9 column to 312 column. We are  only performing hot encoding for top 10 frequent 
    label.
