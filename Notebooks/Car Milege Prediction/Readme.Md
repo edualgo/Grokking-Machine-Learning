@@ -6,4 +6,5 @@ A Linear Regression model to predict car fuel economy (in mpg) given various spe
  Variables that are abliviable in dataset are 
  
  1.mpg: Continous
+ 
  2.cylinder:multi-value discrete
