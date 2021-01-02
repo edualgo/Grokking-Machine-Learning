@@ -3,6 +3,7 @@
 A Linear Regression model to predict car fuel economy (in mpg) given various specifications: {cylinders, displacement, horsepower, weight, acceleration, year, origin}. Currently, Root Mean Square error is around 3.7 mpg.
 
 Dataset Descriptions
+
 https://docs.google.com/spreadsheets/d/1viqrctQHNdJQigAwRfJxnN9h7jv0D48xKzITjA7138U/edit#gid=85281029
 
 Variables that are available  in  the dataset are 
@@ -29,3 +30,9 @@ Data Cleaning
 2. We have to create dummy variable for variable car name.if we do it through pandas
    we create 9 column to 312 column. We are  only performing hot encoding for top 10 frequent 
    label.
+
+MODELLING AND EVALUATION 
+
+ML Algorithm Used :- Multiple linear regression is  the relationship between two or more features and response by fitting a linear equation to observed data.
+Metrics :- Since the target (mpg) variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) used.
+           We tried  to reduce the rmse by selecting good features, so we can get better accuracy.
