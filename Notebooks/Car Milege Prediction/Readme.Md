@@ -2,6 +2,7 @@
 <h3>Summary</h3>
 A Linear Regression model to predict car fuel economy (in mpg) given various specifications: {cylinders, displacement, horsepower, weight, acceleration, year, origin}. Currently, Root Mean Square error is around 3.7 mpg.
 
+
 Dataset Descriptions
 
 https://docs.google.com/spreadsheets/d/1viqrctQHNdJQigAwRfJxnN9h7jv0D48xKzITjA7138U/edit#gid=85281029
@@ -37,3 +38,5 @@ ML Algorithm Used :- Multiple linear regression is  the relationship between two
 
 Metrics :- Since the target (mpg) variable is a continuous variable, regression evaluation metric RMSE (Root Mean Squared Error) used.
            We tried  to reduce the rmse by selecting good features, so we can get better accuracy.
+
+CONCLUSION:- We get 82% accracy on car milege prediction through muntiple Linear Regression.
