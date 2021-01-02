@@ -14,4 +14,11 @@ Variables that are available  in  the dataset are
 7. model year:    multi-valued discrete
 8. origin:        multi-valued discrete
 9. car name:      string (unique for each instance)
-   
+
+Problem Statement
+
+In this model you will investigate the impact of a number of automobile
+engine factors on the vehicle's mpg. The dataset auto-mpg.data contains infor-
+mation for 398 dierent automobile models. Information regarding the number
+of cylinders, displacement, horsepower, weight, acceleration, model year, origin,
+and car name as well as mpg are contained in the file.
