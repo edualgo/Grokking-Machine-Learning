@@ -4,7 +4,13 @@ A Linear Regression model to predict car fuel economy (in mpg) given various spe
 
 <h3>Dataset Descriptions</h3>
  Variables that are abliviable in dataset are 
- 
- 1.mpg: Continous
- 
- 2.cylinder:multi-value discrete
+1. mpg:           continuous
+2. cylinders:     multi-valued discrete
+3. displacement:  continuous
+4. horsepower:    continuous
+5. weight:        continuous
+6. acceleration:  continuous
+7. model year:    multi-valued discrete
+8. origin:        multi-valued discrete
+9. car name:      string (unique for each instance)
+    
