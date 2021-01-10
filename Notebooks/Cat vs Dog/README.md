@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/HVBL91y/catVSdog.jpg" alt="catVSdog" width="300" height="200">
 <br>
 <b>Is it a cat or a dog?</b><br>
-The goal of this project is to clasify whether an image contains a dog or a cat.
+The goal of this project is to classify whether an image contains a dog or a cat.
 </p>
 
 
