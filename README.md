@@ -38,4 +38,9 @@ This repository is under **MIT License** copyright @<a href = "https://github.co
 
 ## Contributors ✨
 
+<a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Abhijit2505/Grokking-Machine-Learning" />
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
 
