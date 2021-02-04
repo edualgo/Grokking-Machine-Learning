@@ -38,20 +38,9 @@ This repository is under **MIT License** copyright @<a href = "https://github.co
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Abhijit2505/Grokking-Machine-Learning" />
+</a>
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/nitya123-github"><img src="https://avatars0.githubusercontent.com/u/53599318?v=4" width="100px;" alt=""/><br /><sub><b>Nitya</b></sub></a><br /><a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/commits?author=nitya123-github" title="Code">💻</a></td>
-    <td align="center"><a href="https://abhijit2505.github.io/portfolio-site/"><img src="https://avatars3.githubusercontent.com/u/52751963?v=4" width="100px;" alt=""/><br /><sub><b>Abhijit Tripathy</b></sub></a><br /><a href="https://github.com/Abhijit2505/Grokking-Machine-Learning/commits?author=Abhijit2505" title="Code">💻</a></td>
-  </tr>
-</table>
+Made with [contributors-img](https://contrib.rocks).
 
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
