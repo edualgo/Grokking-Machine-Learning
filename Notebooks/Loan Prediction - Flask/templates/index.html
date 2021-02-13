@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LoanPrediction</title>
+
+    <h1>Welcome to our website</h1>
+<form action='/prediction' method='post'>
+    <label for="gender1"> Select your gender</label>
+    <select id="gender1" name="gender" >
+          <option value="">Pick an option</option>
+          <option>Male</option>
+          <option>Female</option>
+    </select>
+    <br>
+    <br>
+    <label for="married"> Are you married?</label>
+    <select id="married" name="Married" >
+          <option value="">Pick an option</option>
+          <option>Yes</option>
+          <option>No</option>
+    </select>
+    <br>
+    <br>
+    <label for="dependents"> How many dependents?</label>
+    <select id="dependents" name="Dependents" >
+          <option value="">Pick an option</option>
+          <option>0</option>
+          <option>1</option>
+          <option>2</option>
+          <option>3+</option>
+    </select>
+    <br>
+    <br>
+    <label for="education"> Select your education level</label>
+    <select id="education" name="Education" >
+          <option value="">Pick an option</option>
+          <option>Graduate</option>
+          <option>Not Graduate</option>
+    </select>
+    <br>
+    <br>
+    <label for="Self_employed">  Are you Self_Employed?</label>
+    <select id="Self_employed" name="Self_employed">
+          <option value="">Pick an option</option>
+          <option>Yes</option>
+          <option>No</option>
+    </select>
+    <br>
+    <br>
+    <label for="ApplicantIncome"> Applicant Income</label>
+    <input type="text" id="ApplicantIncome" name="ApplicantIncome" >
+    <br>
+    <br>
+    <label for="CoapplicantIncome"> Co-Applicant Income</label>
+    <input type="text" id="CoapplicantIncome" name="CoapplicantIncome" >
+    <br>
+    <br>
+    <label for="LoanAmount"> Enter Loan Amount</label>
+    <input type="text" id="LoanAmount" name="LoanAmount">
+    <br>
+    <br>
+    
+    <label for="Loan_Amount_Term"> Enter Loan Amount Term</label>
+    <input type="text" id="Loan_Amount_Term" name="Loan_Amount_Term" >
+    <br>
+    <br>
+    <label for="Credit_History"> Credit History(Have you repaid previous debts?)</label>
+    <select id="Credit_History" name="Credit_History" >
+          <option value="">Pick an option</option>
+          <option>Yes</option>
+          <option>No</option>
+    </select>
+    <br>
+    <br>
+    <label for="Property_Area"> Property area you own?</label>
+    <select id="Property_Area" name="Property_Area" >
+          <option value="">Pick an option</option>
+          <option>Semi Urban</option>
+          <option>Urban</option>
+          <option>Rural</option>
+    </select>
+    <br>
+    <br>
+    
+    <button type="submit"> PREDICT </button>
+    
+    </form>
+    
+    <br>
+    {{ pred_text }}
+    
+    
+       
+</head>
+<body>
+
+</body>
+</html>
