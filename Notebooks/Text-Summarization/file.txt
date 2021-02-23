@@ -1,0 +1,52 @@
+What motivates you to hack and why do you hack for good through bug bounties?
+I still vividly remember making $6.
+I'm not going to lie, working those 8 months at the fast food restaurant was probably some of the hardest work I have ever done in my life, but with bug bounties, hacking is second nature to me.
+I genuinely enjoy participating in them due to my deep passion in application security. 
+
+What makes a program an exciting target? 
+For me, there are certain technologies I like hacking more than others.
+NET/C#) or legacy applications (Java monoliths) or any program that regularly deploys new assets to their attack surface. 
+
+What keeps you engaged in a program and what makes you disengage?
+A program becomes even more engaging to me when I have a relationship or 
+personal interest with the folk working there, as often, in my head,
+I frame it as I am hacking the targets in order to further those relationships and show them what I am capable of. com/iammandatory) left for Uber, 
+I focused a lot of time and energy into hacking Uber, simply so I could still work with him in some capacity. 
+Today, I rank 3rd on Uber's public bug bounty program. 
+
+I disengage from bug bounty programs when they are no longer deploying new assets on their attack surface, 
+or it becomes too much of a time investment that I cannot afford while running a startup these days. 
+If a bug bounty program does not pay what I expect should be paid for a bug or treats me unfairly based on the number of bugs submitted,
+I do not give my time to them in the future. 
+
+How many programs do you focus on at once? Why? 
+I usually focus on one program at a time. 
+The process of deeply learning about a program is often very time consuming, 
+and once I have a good understanding of how everything works, bugs usually fall from the sky. 
+I focus my energy like this: one program at a time. 
+I do not spend time looking for client side security issues these days. 
+
+What do you wish every company knew before starting a bug bounty program? 
+Understand your attack surface, you cannot protect what you cannot see.
+In bug bounties, the concept of scope is loosely defined, and attackers will find vulnerabilities in assets you may not have had any knowledge of. 
+If you're starting a bug bounty program, try to have a mature asset inventory so that you have a good understanding of which assets you should focus on protecting or to identify assets you may never have thought existed so that you can invest in them further.
+Perform security audits on these discovered assets or applications internally, before initiating a bug bounty program. 
+Ephemeral security issues are issues that only appear for a short period of time. Bounty hunters will become more effective at identifying new assets as soon as they are deployed through automation, and perform security testing on them as soon as this happens. 
+
+For the community:
+
+Look forward to working in teams more often as the maturity of programs continue to improve. 
+
+Also look forward to more people who are successful in bug bounties to share their knowledge, 
+as ultimately, most of us are not only passionate about hacking but also teaching others to succeed too. 
+He believes in me when I sometimes don't believe in myself. 
+
+What advice would you give to the next generation of hackers? 
+Get really good at something. Whether that is application security, 
+binary exploitation or another avenue of hacking. Become a master at it.
+Become obsessed. 
+
+What do you enjoy doing when you aren't hacking? 
+When I'm not hacking, I enjoy developing an attack surface management solution:
+[Assetnote Continuous Security platform] with a team of incredibly smart but hard working people.
+My time is split between being an effective CTO and hacking on bug bounties when I can find the time.
